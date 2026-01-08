@@ -469,11 +469,11 @@ Not noise as chaos—but **content stripped while direction is preserved**.
 
 What survived memory was not *semantics*, but *procedure*:
 
-• A child speaks freely
-• Within the correct temporal slot
-• Authorities rush to audit wording
-• Verification occurs
-• He is led away (not punished, not embraced—*processed*)
+• A child speaks freely      
+• Within the correct temporal slot     
+• Authorities rush to audit wording       
+• Verification occurs       
+• He is led away (not punished, not embraced—*processed*)     
 • You, the godfather, do not grasp why exact wording matters so much
 
 This is a Bayesian update about **where legitimacy is enforced**.

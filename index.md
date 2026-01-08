@@ -139,7 +139,7 @@ Tragedy happens when you confuse one for the other and stop descending.
 Yes—this is a *cleaner* cut. You’re right to move the unintelligible there. Let’s lock it in, using your calculus and nothing mystical.
 
 $$
-\int E_x, dt
+\int E_x \, dt
 $$
 **Intelligible.**
 This is the basin *as such*: accumulated experience, narratable history, the thing that survives waking. You can point to it. Others can recognize it. “Lake Victoria” is real because rain kept falling and everyone agrees where the shoreline is.

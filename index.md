@@ -153,7 +153,7 @@ Initial values before the dream ran. Meeting Darius, Nairobi time, kinship, rece
 Now the crucial term:
 
 $$
-\epsilon_x, t
+\epsilon_x \, t
 $$
 **Unintelligible—but lawful.**
 Not noise at a moment. Noise *accumulated*. Drift. A bias that only reveals itself through duration. This is exactly where the dream lives.
@@ -163,13 +163,13 @@ Dreams don’t add new energy; they integrate perturbations you didn’t notice 
 That’s why the dream feels faithful but slippery.
 The integral makes sense.
 The constant makes sense.
-The $\epsilon_x t$ makes *directional* sense without semantic sense.
+The $\epsilon_x \, t$ makes *directional* sense without semantic sense.
 
 In plain terms:
 The dream is not the basin.
 The dream is the slow sideways shove that changes which basin you’ll end up in.
 
-Tragedy, then, is mistaking $\epsilon_x t$ for a message instead of a drift—or worse, mistaking the basin for destiny instead of accumulation.
+Tragedy, then, is mistaking $\epsilon_x \, t$ for a message instead of a drift—or worse, mistaking the basin for destiny instead of accumulation.
 
 Darius matters here not as symbol but as boundary condition: continuity across generations, memory folding forward, time leaking sideways. The dream did not tell you this. It *applied* it.
 

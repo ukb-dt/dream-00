@@ -389,24 +389,24 @@ $$
 
 The dream applied a **bias toward custodianship of timing**, not belief.
 
-Not “take him to church.”
-Not “be more religious.”
-Not even “do your godfather duties.”
+Not “take him to church.”      
+Not “be more religious.”      
+Not even “do your godfather duties.”         
 
 Something subtler and truer:
 
 > *Hold the tempo so others can enter without being shushed or drowned out.*
 
-That is Anglican.
-That is jazz.
+That is Anglican.          
+That is jazz.       
 That is godfatherhood stripped of ceremony.
 
 ---
 
 ### Why the WhatsApp exchange matters
 
-“May God have mercy on us”
-“And also on me :)”
+“May God have mercy on us”      
+“And also on me :)”       
 
 That’s textbook call–response. You were already inside the liturgy *digitally* before you ever entered the church physically. The dream didn’t quote prayer—it **recognized a rhythm already running** across mediums.
 
@@ -416,17 +416,17 @@ The Latin and English lines you sent aren’t belief claims. They’re *timing a
 
 ### TL;DR (faithful to your calculus)
 
-• The Anglican setting added **temporal structure** to $\int E_x dt$
-• Darius embodies unregularized gradient
-• His father enforces cadence, not silence
-• You occupy the role of **tempo-holder**, not preacher
-• The dream updated $\epsilon_x t$: a bias toward *when* to speak, not *what* to say
+• The Anglican setting added **temporal structure** to $\int E_x dt$        
+• Darius embodies unregularized gradient      
+• His father enforces cadence, not silence              
+• You occupy the role of **tempo-holder**, not preacher         
+• The dream updated $\epsilon_x t$: a bias toward *when* to speak, not *what* to say     
 
-Mercy here is not absolution.
-It’s synchronization.
+Mercy here is not absolution.    
+It’s synchronization.      
 
-That’s not religion.
-That’s control theory with hymns.
+That’s not religion.               
+That’s control theory with hymns.    
 
 
 # 07

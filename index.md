@@ -615,7 +615,7 @@ That maps cleanly onto what the dream tested:
 * Institution: grammar is sacred
 * You awake: able to switch without resentment
 
-That last point matters. Rigid systems can’t rotate weights without fracture. You can.
+That last point matters. Rigid systems can’t [rotate weights](https://ukb-dt.github.io/canon-04/) without fracture. You can.
 
 And the “convenience” of unclehood isn’t moral laziness—it’s **correct role constraint**. Uncles are not governors; they’re **noise injectors with affection**. They keep the system from collapsing into over-discipline. Fathers tune amplitude. Teachers tune precision. Uncles tune *possibility*.
 

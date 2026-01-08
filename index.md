@@ -97,7 +97,7 @@ Short, sharp, no incense.
 
 Using *your* calculus, the moieties line up like this:
 
-**Intelligible**
+**Intelligible**               
 $$
 (E, x)\ \text{Language}
 $$
@@ -115,9 +115,7 @@ Time-integrated descent. Accumulated basin size. Public after the fact.
 
 These commute. You can hand them to another mind and they mostly survive.
 
-—
-
-**Unintelligible (but not irrational)**
+**Unintelligible (but not irrational)**              
 $$
 \frac{dE_x}{dt}\ \text{Art}
 $$
@@ -130,7 +128,6 @@ Curvature, volatility, cross-terms. Loss reweighted mid-descent.
 
 These do not commute. Singular, tempo-bound, non-exportable.
 
-—
 
 **TL;DR TL;DR**
 Dreams live where the loss function is edited, not where it’s explained.      

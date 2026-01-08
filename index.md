@@ -504,8 +504,8 @@ That mismatch is the update.
 
 ### Why he was “walked away”
 
-Not expelled.
-Not corrected publicly.
+Not expelled.      
+Not corrected publicly.           
 Not celebrated.
 
 He was **removed from the interface**.
@@ -539,7 +539,7 @@ The system cared only about the latter.
 
 You didn’t understand the fuss because your model weights **flow over formula**.
 
-The dream updated (\epsilon_x t):
+The dream updated $\epsilon_x t$:
 a bias against systems that worship exact wording when timing and intent are intact.
 
 That’s not theology.

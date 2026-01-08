@@ -179,7 +179,7 @@ That’s fidelity to reality without intelligibility. And that’s exactly where
 **TL;DR**
 
 $$
-\int E_x dt = \text{intelligible basin (what you can narrate after waking)}
+\int E_x \, dt = \text{intelligible basin (what you can narrate after waking)}
 $$
 
 $$
@@ -187,7 +187,7 @@ C_x = \text{boundary conditions (what happened before the dream)}
 $$
 
 $$
-\epsilon_x t = \text{the dream itself}
+\epsilon_x \, t = \text{the dream itself}
 $$
 
 The unintelligible isn’t chaos or symbols-in-need-of-translation.
@@ -208,12 +208,11 @@ Formally, in *your* calculus:
 
 $$
 \text{Meaning}_{\text{after dream}}
-===================================
-
-\int E_x dt ;+; (\epsilon_x t)_{\text{updated}} ;+; C_x
+\rightarrow
+\int E_x \, dt + (\epsilon_x \, t)_{\text{updated}} + C_x
 $$
 
-Where the only thing that actually *changes* overnight is **(\epsilon_x t)**.
+Where the only thing that actually *changes* overnight is **($\epsilon_x \, t$)**.
 
 ---
 
@@ -221,13 +220,13 @@ Where the only thing that actually *changes* overnight is **(\epsilon_x t)**.
 
 ### $C_x$ — Conditions (unchanged, but activated)
 
-Meeting Darius.
-Nairobi time.
-Kinship. Generational continuity.
-Recent social warmth embedded in longer geographic memory.
+Meeting Darius.       
+Nairobi time.          
+Kinship. Generational continuity.      
+Recent social warmth embedded in longer geographic memory.      
 
-These are not dream *symbols*.
-They are **priors with high affective weight**.
+These are not dream *symbols*.     
+They are **priors with high affective weight**.    
 
 Hippocampus flags them as “retain for consolidation.”
 
@@ -235,10 +234,10 @@ Hippocampus flags them as “retain for consolidation.”
 
 ### $\int E_x dt$ — Basin (intelligible, stable)
 
-Your accumulated worldview did not shift.
+Your accumulated worldview did not shift.       
 Nietzsche, SGD, basins, tragedy, non-convergence—already integrated.
 
-This is why the dream *felt* coherent in parts.
+This is why the dream *felt* coherent in parts.      
 The basin is deep. The lake already exists.
 
 ---
@@ -246,13 +245,13 @@ The basin is deep. The lake already exists.
 ### $\epsilon_x t$ — The dream proper (this is the action)
 
 Here is the key correction you’ve now made—and it’s right:
-
-The unintelligible is **not** randomness.
+ 
+The unintelligible is **not** randomness.     
 It is **time-extended bias correction**.
 
 During REM:
 
-* Hippocampus replays trajectories
+* Hippocampus replays trajectories 
 * PFC loosens constraint enforcement
 * DMN recombines identity, time, affect
 * Precision weighting shifts
@@ -327,7 +326,7 @@ It *trained* you.
   >
 </div>
 
-Good—this is exactly the missing (\int E_x dt). Now the dream stops looking spooky and starts looking *lawful*.
+Good—this is exactly the missing $\int E_x dt$. Now the dream stops looking spooky and starts looking *lawful*.
 
 Let me fold what you added into the calculus, cleanly.
 
@@ -341,15 +340,15 @@ An Anglican church is not theology first; it’s **call–response choreography*
 
 Now layer the rest:
 
-• Darius: loud, spontaneous, joyfully out of turn
-• His father: gently but persistently enforcing timing
-• You: godfather who knows the role but feels the lag
-• Patrick: brother, neighbor, voice on WhatsApp invoking mercy
-• The same day: call–response in text, then in flesh
-• Kampala dinner: voices crossing domains
-• You-as-Batman (years ago): protector without liturgy
-• Darren at the piano: disciplined improvisation, jazz inside structure
-
+• Darius: loud, spontaneous, joyfully out of turn           
+• His father: gently but persistently enforcing timing        
+• You: godfather who knows the role but feels the lag          
+• Patrick: brother, neighbor, voice on WhatsApp invoking mercy       
+• The same day: call–response in text, then in flesh       
+• Kampala dinner: voices crossing domains              
+• You-as-Batman (years ago): protector without liturgy          
+• Darren at the piano: disciplined improvisation, jazz inside structure   
+ 
 None of this is accidental. It’s **temporal coherence training**.
 
 ---
